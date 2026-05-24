@@ -193,7 +193,7 @@ git clone https://github.com/your-username/superstore-dashboard.git
 
 ## 🙌 Author
 
-**Abhijeet Kumar**
+**Priyanshu Kumar**
 
 * Web Developer 💻
 * Data Analyst Enthusiast 📊
